@@ -21,7 +21,6 @@ While it's easier to work with technologies that you use day-to-day, today I wou
 
 The workshop will be divided in several tasks that each represent a checkpoint.
 If one of the tasks is not working or you ran out of time you can always check-out the branch for that specific checkpoint and catch-up from there.
-TEST
 
 # Tasks
 
